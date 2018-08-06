@@ -17,4 +17,4 @@ local서버로 구현하였습니다
 * 개발환경 : MacOs, Window10, bracket,workbench,postman
 * 형상관리 : GitHub
 * DB     : Mongodb
-* 주요기술 :  Nodejs, mysql
+* 주요기술 :  Nodejs, Mongodb
