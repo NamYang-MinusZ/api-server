@@ -12,11 +12,11 @@ const busdataSchema = new Schema({
     required: true,
   },
   concentration: {
-    type: String,
+    type: Array,
     required: true,
   },
   location: {
-    type: String,
+    type: Object,
     required: true,
   },
   create_time: {

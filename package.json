@@ -18,6 +18,8 @@
     "nodemon": "^1.18.3"
   },
   "dependencies": {
-    "http-errors": "^1.7.0"
+    "http-errors": "^1.7.0",
+    "net-ping": "^1.2.3",
+    "npm": "^6.3.0"
   }
 }
